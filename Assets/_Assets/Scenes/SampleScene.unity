@@ -8014,6 +8014,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2794227449837170946, guid: f6232be3499d4634d99846322ebcd6f7, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 317a23b945e20c846930910ec444919f, type: 2}
     - target: {fileID: 4180188887572981616, guid: f6232be3499d4634d99846322ebcd6f7, type: 3}
       propertyPath: m_Name
       value: Door
@@ -8038,6 +8042,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 6430345886436848933, guid: f6232be3499d4634d99846322ebcd6f7, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 317a23b945e20c846930910ec444919f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
