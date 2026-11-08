@@ -50,11 +50,11 @@ ModelImporter:
     importLights: 1
     nodeNameCollisionStrategy: 1
     fileIdsGeneration: 2
-    swapUVChannels: 1
-    generateSecondaryUV: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
-    weldVertices: 0
+    weldVertices: 1
     bakeAxisConversion: 0
     preserveHierarchy: 0
     skinWeightsMode: 0
@@ -103,7 +103,7 @@ ModelImporter:
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
